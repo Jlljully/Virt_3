@@ -68,7 +68,7 @@ Hey, Netology
   
 ### Ответ
 
-[скрин](!https://github.com/Jlljully/Virt_3/blob/main/111.jpg "скрин")
+![скрин](https://github.com/Jlljully/Virt_3/blob/main/111.jpg "скрин")
 
 ## Задача 4 (*)
 
